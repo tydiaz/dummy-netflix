@@ -1,11 +1,23 @@
 import Head from 'next/head';
-import Image from 'next/image';
 import Banner from '../components/banner/banner.component';
+import CardSections from '../components/card/card-sections.component';
 import Card from '../components/card/card.component';
 import NavBar from '../components/nav/navbar.component';
 import styles from '../styles/Home.module.css';
 
 export default function Home() {
+  const dcMovies = [
+    {
+      imageUrl: '/static/the_flash.webp',
+    },
+    {
+      imageUrl: '/static/the_flash.webp',
+    },
+    {
+      imageUrl: '/static/the_flash.webp',
+    },
+  ];
+
   return (
     <div className={styles.container}>
       <Head>
@@ -19,9 +31,10 @@ export default function Home() {
         subTitle='fastest superhero ever'
         imageUrl='/static/the_flash.webp'
       />
-      <Card imageUrl='/static/the_flash.webp' size='large' />
-      <Card imageUrl='/static/the_flas.webp' size='medium' />
-      <Card imageUrl='/static/the_flash.webp' size='small' />
+      <div className={styles.sectionsContainer}>
+        <CardSections title='DC' movies={dcMovies} size='large' />
+        <CardSections title='DC' movies={dcMovies} size='medium' />
+      </div>
     </div>
   );
 }
