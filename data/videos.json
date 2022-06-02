@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "rpliZLwAr05X6nN2VKxP283pK3c",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7GAoX0cuE2ll0d6JMWL124yBACY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Knw-Hmo4GZE"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-11T17:52:08Z",
+        "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+        "title": "DC - The World Needs Heroes",
+        "description": "The World Needs Heroes. @TheBatman @BlackAdamMovie @TheFlashMovie @AquamanMovie #DCHeroes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Knw-Hmo4GZE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Knw-Hmo4GZE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Knw-Hmo4GZE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-11T17:52:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "snYTbtA4ik82cJ0Z1QPGcEzEJnw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FPxheU-E0Tg"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-11T17:14:06Z",
+        "channelId": "UCLRlryMfL8ffxzrtqv0_k_w",
+        "title": "BLACK ADAM Teaser Trailer (2022) DC Heroes",
+        "description": "Official Black Adam Movie Teaser Trailer 2022 | Subscribe ➤ https://abo.yt/ki | Dwayne Johnson Movie Trailer | Release: 21 Oct ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FPxheU-E0Tg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FPxheU-E0Tg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FPxheU-E0Tg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KinoCheck.com",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-11T17:14:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1W2MsHhT1Y-0perAmRxPfoUjAP0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SgnSFrNDUz4"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-16T12:59:50Z",
+        "channelId": "UCiifkYAs_bq1pt_zbNAzYGg",
+        "title": "MultiVersus | Official Cinematic Trailer - &quot;You&#39;re with Me!&quot; | DC",
+        "description": "What in the MultiVerse is going on here?! Big news for all our MVPs, Open Beta is on the horizon! See you in July. Sign up today ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SgnSFrNDUz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SgnSFrNDUz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SgnSFrNDUz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-16T12:59:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J0J3GSCHfd4zlf1R7xxVGqxW0aI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aOIHRlWaufY"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-11T17:23:06Z",
+        "channelId": "UCi8e0iOVk1fEOogdfu4YgfA",
+        "title": "DC - The World Needs Heroes (2022) | Movieclips Trailers",
+        "description": "Check out an Official TV Spot for Black Adam, The Batman, Aquaman and The Lost Kingdom and The Flash! Let us know what ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aOIHRlWaufY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aOIHRlWaufY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aOIHRlWaufY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Movieclips Trailers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-11T17:23:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VHcu5pWBo2F7kTsODXQ9JV1UQJA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0fZCYDFGqow"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-25T13:59:53Z",
+        "channelId": "UCiifkYAs_bq1pt_zbNAzYGg",
+        "title": "Green Lantern: Beware My Power | Official Trailer | DC",
+        "description": "Witness the action-packed induction of John Stewart to the Green Lantern Corps, and his first thrilling adventure alongside some ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0fZCYDFGqow/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0fZCYDFGqow/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0fZCYDFGqow/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-25T13:59:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Sz7g0VLgx9O4hVPhfWPTrEvoP30",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1jkw2JPCl18"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-23T17:00:03Z",
+        "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+        "title": "DC LEAGUE OF SUPER-PETS – Official Trailer",
+        "description": "The #DCSuperPets are ready to sit, stay, save the world. DC League of Super-Pets will be unleashed in theaters May 2022.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1jkw2JPCl18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1jkw2JPCl18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1jkw2JPCl18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-23T17:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t_amu5z_4NtbZHXLFHEu1YYb9Xc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4B-rRimqWbU"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-11T17:44:10Z",
+        "channelId": "UCWJ5MfdQZ6jXbF5gYuSAf5Q",
+        "title": "DC Movies - Official The World Needs Heroes Trailer (2022) Dwayne Johnson, Jason Momoa, Ezra Miller",
+        "description": "Check out the trailer for a look at DC movies coming in 2022, including The Batman, Black Adam, The Flash, and Aquaman and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4B-rRimqWbU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4B-rRimqWbU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4B-rRimqWbU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN Movie Trailers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-11T17:44:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L-LZHDG8YA-UWui8dqdq_ZOc93w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "drQWopZDEEY"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-16T18:41:39Z",
+        "channelId": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
+        "title": "THE FLASH Trailer (2022)",
+        "description": "THE FLASH Trailer (2022) Ezra Miller, Michael Keaton, Batman, DC Movie HD © 2021 - Warner Games.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/drQWopZDEEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/drQWopZDEEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/drQWopZDEEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ONE Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-16T18:41:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9F1Rl3YUkEPQkjuSHrBrsKLa1d8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cjd00TgL7NQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-16T13:06:33Z",
+        "channelId": "UCiqW9fOtTfEqFUQlQjjABgg",
+        "title": "#MultiVersus 🎮  Tráiler Oficial  de Cinemática en ESPAÑOL LATINO I ¡Estás conmigo!",
+        "description": "Pero qué en el MultiVersus está pasando aquí!? Hay muy buenas noticias para todos nuestros MVP's, ¡La Beta Abierta está ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cjd00TgL7NQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cjd00TgL7NQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cjd00TgL7NQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Play Latino",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-16T13:06:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A158ZSiXiDAazNQumbXngz0WC3Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xVnHZ5SF1Jg"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-28T15:58:47Z",
+        "channelId": "UCiifkYAs_bq1pt_zbNAzYGg",
+        "title": "Swamp Thing | Full Trailer | DC Universe | The Ultimate Membership",
+        "description": "Join now at: https://yourdcu.com/swampthingtrailer SWAMP THING follows Abby Arcane as she investigates what seems to be a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xVnHZ5SF1Jg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xVnHZ5SF1Jg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xVnHZ5SF1Jg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-28T15:58:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TFV_fUcEzG4JkBpKZc3cZgNkJr8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YQcQ-s1i9IQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-04T19:00:15Z",
+        "channelId": "UCWJ5MfdQZ6jXbF5gYuSAf5Q",
+        "title": "Green Lantern: Beware My Power - Exclusive Official Trailer (2022)",
+        "description": "In Green Lantern: Beware My Power, recently discharged Marine sniper John Stewart is at a crossroads in his life, one which is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YQcQ-s1i9IQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YQcQ-s1i9IQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YQcQ-s1i9IQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN Movie Trailers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-04T19:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p8voue1c33nLR-fBHWlryRZQIUM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1dd0ecrO89o"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-23T17:00:03Z",
+        "channelId": "UCEOVI4AmQE01FDKNFunkV2w",
+        "title": "DC LIGA DOS SUPERPETS - Trailer Oficial Dublado",
+        "description": "Esses #DCSuperPets de quatro-patas estão prestes a CAUSAR na DC Comics. Maio exclusivamente nos Cinemas.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1dd0ecrO89o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1dd0ecrO89o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1dd0ecrO89o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures Brasil",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-23T17:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p5ecaRJyOv7IuYbr7F1aSCllIf0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jppK_dp7YXY"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-11T16:59:50Z",
+        "channelId": "UCiifkYAs_bq1pt_zbNAzYGg",
+        "title": "The World Needs Heroes | DC",
+        "description": "The World Needs Heroes. #TheBatman #BlackAdam #TheFlash #Aquaman Subscribe To DC: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jppK_dp7YXY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jppK_dp7YXY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jppK_dp7YXY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-11T16:59:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oHQzBpog5UCCFv3Sxp-CwaHN2mE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ArDx9pwK5ys"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-16T23:30:01Z",
+        "channelId": "UCiifkYAs_bq1pt_zbNAzYGg",
+        "title": "Gotham Knights - Official Court of Owls Story Trailer | DC FanDome 2021",
+        "description": "Batman, Jim Gordon - they thought they had a handle on #GothamCity, but there are hidden forces at play that no one talks about.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ArDx9pwK5ys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ArDx9pwK5ys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ArDx9pwK5ys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-16T23:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xSRtEXaCjXQG-amcyefhHVkBmUw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zvborgKG7fw"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-16T13:00:34Z",
+        "channelId": "UCHqAOjD1bj-PvtPcK8qDFMQ",
+        "title": "MultiVersus – Official Cinematic Trailer - &quot;You&#39;re with Me!&quot;",
+        "description": "What in the MultiVerse is going on here?! Big news for all our MVPs, Open Beta is on the horizon! See you in July. Sign up today ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zvborgKG7fw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zvborgKG7fw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zvborgKG7fw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Bros. Games",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-16T13:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wMiy3sYHWtH2dU-AdY29vg363XE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8FTS9T5THuc"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-16T19:40:58Z",
+        "channelId": "UCWJ5MfdQZ6jXbF5gYuSAf5Q",
+        "title": "The Flash - First Look Teaser Trailer | DC FanDome 2021",
+        "description": "Here's our first look at the Scarlet Speedster's solo film starring Ezra Miller as Barry Allen, Ben Affleck as Batman, and in his ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8FTS9T5THuc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8FTS9T5THuc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8FTS9T5THuc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN Movie Trailers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-16T19:40:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rS3AXBoHUEiyHBDemJ4OhJNh7gA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w00MG1M3xdY"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-16T17:35:01Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Black Adam - Official First Look Teaser Trailer | DC FanDome 2021",
+        "description": "Dwayne Johnson stars as the titular antihero in this DC Comics epic that introduces the Justice Society to the big screen. The cast ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w00MG1M3xdY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w00MG1M3xdY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w00MG1M3xdY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-16T17:35:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5sSt-nYD7nJTL1cer4K6xKUXRP8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "spKdJkWlRZs"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-23T18:01:56Z",
+        "channelId": "UC5XG4yYM-_DQ-3HPRuam76Q",
+        "title": "DC LIGA DOS SUPERPETS - Trailer Dublado",
+        "description": "Assista ao novo trailer de #DCLigaDosSuperPets No nosso site, você pode saber mais sobre as medidas de segurança adotadas ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/spKdJkWlRZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/spKdJkWlRZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/spKdJkWlRZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ingresso.com",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-23T18:01:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3b_6c_d0o1wimH1br_u_sRtvvHs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wvy6RETg8vg"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-25T20:37:12Z",
+        "channelId": "UC5XG4yYM-_DQ-3HPRuam76Q",
+        "title": "Adão Negro, Batman, The Flash, Aquaman 2 | Teaser DC Legendado",
+        "description": "O mundo precisa de heróis! | Teaser DC Assista ao novo trailer dos lançamentos da #DC em 2022 Clique no link: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wvy6RETg8vg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wvy6RETg8vg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wvy6RETg8vg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ingresso.com",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-25T20:37:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i4BzcS7ZkfaomLkZY7HBck9g1Xc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xEbpPP-_1Ig"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-03T16:00:34Z",
+        "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+        "title": "DC League of Super-Pets – Trailer 2",
+        "description": "Just because they're super - doesn't make them heroes. See #DCSuperPets only in theaters July 29.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xEbpPP-_1Ig/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xEbpPP-_1Ig/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xEbpPP-_1Ig/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-03T16:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_3CkxlkU_uGmWbw3Kx2k_7xACg8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ygCmFLiUH3g"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-16T13:00:34Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "MultiVersus - &quot;You&#39;re with Me&quot; Official Cinematic Trailer | PS5 &amp; PS4 Games",
+        "description": "What in the MultiVerse is going on here?! Big news for all our MVPs, Open Beta is on the horizon! See you in July. Sign up today ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ygCmFLiUH3g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ygCmFLiUH3g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ygCmFLiUH3g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-16T13:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xsuy_xavCfhUv9VJb6zRdvakH9k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xLbtQCAPH04"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-07T19:54:33Z",
+        "channelId": "UCiifkYAs_bq1pt_zbNAzYGg",
+        "title": "DMZ | Official Trailer | DC",
+        "description": "DMZ leaps off the pages of the acclaimed graphic novel into the visual landscape of a dangerous and distorted Manhattan as one ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xLbtQCAPH04/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xLbtQCAPH04/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xLbtQCAPH04/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-07T19:54:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PduXFw1ibF7aIOxHODL15TI5kng",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "isf3Kpgk9VA"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-16T17:38:16Z",
+        "channelId": "UCWJ5MfdQZ6jXbF5gYuSAf5Q",
+        "title": "Black Adam - Official First Look Teaser Trailer | DC FanDome 2021",
+        "description": "Dwayne Johnson stars as the titular antihero in this DC Comics epic that introduces the Justice Society to the big screen. The cast ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/isf3Kpgk9VA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/isf3Kpgk9VA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/isf3Kpgk9VA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN Movie Trailers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-16T17:38:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j7ACS63TUFFTwIdQ4EpkTeWPG3Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VJamVNlQMOY"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-23T17:00:17Z",
+        "channelId": "UCbxjDfYwfF8RjYBp5htJ38Q",
+        "title": "DC League Of Super-Pets – Official Trailer – Warner Bros. UK &amp; Ireland",
+        "description": "The #DCSuperPets are ready to sit, stay, save the world. DC League of Super-Pets will be unleashed into cinemas May 2022 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VJamVNlQMOY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VJamVNlQMOY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VJamVNlQMOY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Bros. UK & Ireland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-23T17:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "af0fBuRQ_zg6fXvhYEJTuQF0Xk8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AJmEaYsLYB8"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-16T21:05:06Z",
+        "channelId": "UCiifkYAs_bq1pt_zbNAzYGg",
+        "title": "The Batman | Official Trailer | DC",
+        "description": "Now Playing in Theaters Vengeance has arrived at #DCFanDome. Watch the new trailer for The Batman now! Read comics on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AJmEaYsLYB8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AJmEaYsLYB8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AJmEaYsLYB8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-16T21:05:06Z"
+      }
+    }
+  ]
+}
